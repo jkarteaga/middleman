@@ -45,7 +45,7 @@ set :haml, ugly: true
 #
 # A path which all have the same layout
 # with_layout :admin do
-#   page "/admin/*"
+#   page "/admin/"
 # end
 
 # Proxy (fake) files
